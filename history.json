@@ -1,5 +1,28 @@
 [
   {
+    "id": "1782256458020",
+    "type": "img2img",
+    "timestamp": "2026/6/24 07:14:06",
+    "prompt": "以图1的风格制作情侣装的促销活动宣传图，有图2和图3的模特在其中",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782256455474_0.png"
+    ],
+    "referenceUrls": [
+      {
+        "name": "1000037816.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782256446720_0.png"
+      },
+      {
+        "name": "1000037751.jpg",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782256449783_1.jpg"
+      },
+      {
+        "name": "1000037817.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782256453408_2.png"
+      }
+    ]
+  },
+  {
     "id": "1782231407302",
     "type": "img2img",
     "timestamp": "2026/6/24 00:16:39",
