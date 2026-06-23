@@ -1,5 +1,20 @@
 [
   {
+    "id": "1782230718008",
+    "type": "img2img",
+    "timestamp": "2026/6/24 00:05:12",
+    "prompt": "提示词：以图1的风格制作一个滴滴司机的招聘活动宣传图，有图2的模特在其中",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782230715541_0.png"
+    ],
+    "referenceUrls": [
+      {
+        "name": "85fd22a3-b8f0-4413-b68f-19b7eae55da9.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782230712612_0.png"
+      }
+    ]
+  },
+  {
     "id": "1782230527401",
     "type": "img2img",
     "timestamp": "2026/6/24 00:01:59",
