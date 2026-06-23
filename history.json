@@ -1,5 +1,24 @@
 [
   {
+    "id": "1782230527401",
+    "type": "img2img",
+    "timestamp": "2026/6/24 00:01:59",
+    "prompt": "以图1的风格制作一个程序员的招聘活动宣传图，有图2的模特在其中",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782230525052_0.png"
+    ],
+    "referenceUrls": [
+      {
+        "name": "c6d2cf62a2a642250f682369480d38948e52eec23160f0-s1Xjf5.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782230519998_0.png"
+      },
+      {
+        "name": "IMG_0053.JPEG",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782230523416_1.JPEG"
+      }
+    ]
+  },
+  {
     "id": "1782229288448",
     "type": "img2img",
     "timestamp": "2026/6/23 23:41:14",
