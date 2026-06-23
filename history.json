@@ -1,5 +1,20 @@
 [
   {
+    "id": "1782258194781",
+    "type": "img2img",
+    "timestamp": "2026/6/24 07:43:06",
+    "prompt": "把图中男士精修一下，注意保持原来的样貌和五官一致性",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782258190774_0.png"
+    ],
+    "referenceUrls": [
+      {
+        "name": "1000037821.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782258186241_0.png"
+      }
+    ]
+  },
+  {
     "id": "1782257512633",
     "type": "img2img",
     "timestamp": "2026/6/24 07:31:44",
