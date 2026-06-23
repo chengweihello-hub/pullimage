@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "1782228213363",
+    "type": "txt2img",
+    "timestamp": "2026/6/23 23:23:27",
+    "prompt": "PS6次世代游戏“恐龙危机”宣传图",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782228207814_0.png"
+    ]
+  }
+]
