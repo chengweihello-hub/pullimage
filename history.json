@@ -1,5 +1,24 @@
 [
   {
+    "id": "1782285398582",
+    "type": "img2img",
+    "timestamp": "2026/6/24 15:16:29",
+    "prompt": "生成一张情侣照，模特来自图1和图2",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782285395387_0.png"
+    ],
+    "referenceUrls": [
+      {
+        "name": "1000037825.jpg",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782285389368_0.jpg"
+      },
+      {
+        "name": "1000033032.jpg",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782285392979_1.jpg"
+      }
+    ]
+  },
+  {
     "id": "1782258990286",
     "type": "img2img",
     "timestamp": "2026/6/24 07:56:17",
