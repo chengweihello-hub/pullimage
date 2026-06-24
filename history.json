@@ -9,21 +9,6 @@
     ]
   },
   {
-    "id": "1782302655658",
-    "type": "img2img",
-    "timestamp": "2026/6/24 20:04:09",
-    "prompt": "改成末日氛围，丧尸围城，生化危机",
-    "generatedUrls": [
-      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782302652484_0.png"
-    ],
-    "referenceUrls": [
-      {
-        "name": "1000037838.jpg",
-        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782302649974_0.jpg"
-      }
-    ]
-  },
-  {
     "id": "1782285553469",
     "type": "img2img",
     "timestamp": "2026/6/24 15:19:06",
