@@ -1,14 +1,5 @@
 [
   {
-    "id": "1782317076830",
-    "type": "txt2img",
-    "timestamp": "2026/6/25 00:04:32",
-    "prompt": "真人快打",
-    "generatedUrls": [
-      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782317073005_0.jpg"
-    ]
-  },
-  {
     "id": "1782285553469",
     "type": "img2img",
     "timestamp": "2026/6/24 15:19:06",
