@@ -1,5 +1,20 @@
 [
   {
+    "id": "1782465768583",
+    "type": "img2img",
+    "timestamp": "2026/6/26 17:22:40",
+    "prompt": "图中的对照双方取的背景是魔人布欧和忍者神龟，帮我换成春丽和貂蝉，风格也保持不变",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782465766028_0.jpg"
+    ],
+    "referenceUrls": [
+      {
+        "name": "1000037852.jpg",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782465760855_0.jpg"
+      }
+    ]
+  },
+  {
     "id": "1782407586136",
     "type": "txt2img",
     "timestamp": "2026/6/26 01:13:03",
