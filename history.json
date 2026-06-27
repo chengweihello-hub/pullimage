@@ -1,5 +1,24 @@
 [
   {
+    "id": "1782565360604",
+    "type": "img2img",
+    "timestamp": "2026/6/27 21:02:33",
+    "prompt": "以图1的风格生成女装的圣诞促销宣传图，模特是博德之门3的shadow heart",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782565359072_0.jpg"
+    ],
+    "referenceUrls": [
+      {
+        "name": "1000037863.jpg",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782565353496_0.jpg"
+      },
+      {
+        "name": "1000037743.jpg",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782565356706_1.jpg"
+      }
+    ]
+  },
+  {
     "id": "1782565121293",
     "type": "img2img",
     "timestamp": "2026/6/27 20:58:37",
