@@ -1,5 +1,14 @@
 [
   {
+    "id": "1782525272268",
+    "type": "txt2img",
+    "timestamp": "2026/6/27 09:54:29",
+    "prompt": "法国对战德国 2026世界杯的宣传图，有战斗氛围， 3d，未来感",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782525269282_0.jpg"
+    ]
+  },
+  {
     "id": "1782525211558",
     "type": "img2img",
     "timestamp": "2026/6/27 09:53:24",
