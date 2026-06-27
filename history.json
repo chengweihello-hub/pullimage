@@ -1,5 +1,24 @@
 [
   {
+    "id": "1782527345049",
+    "type": "img2img",
+    "timestamp": "2026/6/27 10:28:54",
+    "prompt": "以图1的风格生成一个女装促销宣传图，图2是提供素材的模特",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782527341271_0.png"
+    ],
+    "referenceUrls": [
+      {
+        "name": "Snipaste_2026-06-27_09-46-35.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782527334859_0.png"
+      },
+      {
+        "name": "image_1.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782527338056_1.png"
+      }
+    ]
+  },
+  {
     "id": "1782527209157",
     "type": "img2img",
     "timestamp": "2026/6/27 10:26:42",
