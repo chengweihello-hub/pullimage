@@ -1,20 +1,5 @@
 [
   {
-    "id": "1782564991046",
-    "type": "img2img",
-    "timestamp": "2026/6/27 20:56:26",
-    "prompt": "以图1的风格生成女装的圣诞促销宣传图，模特是博德之门3的影心",
-    "generatedUrls": [
-      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782564989153_0.jpg"
-    ],
-    "referenceUrls": [
-      {
-        "name": "1000037816.png",
-        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782564986800_0.jpg"
-      }
-    ]
-  },
-  {
     "id": "1782527556159",
     "type": "txt2img",
     "timestamp": "2026/6/27 10:32:32",
