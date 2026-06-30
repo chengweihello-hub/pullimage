@@ -51,25 +51,6 @@
     ]
   },
   {
-    "id": "1782320869268",
-    "type": "img2img",
-    "timestamp": "2026/6/25 01:07:43",
-    "prompt": "以图1的风格生成一个吊带裙促销宣传图，加入图2的模特",
-    "generatedUrls": [
-      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1782320867445_0.jpg"
-    ],
-    "referenceUrls": [
-      {
-        "name": "huaban-6877102168.webp",
-        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782320863355_0.jpg"
-      },
-      {
-        "name": "image_1.png",
-        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1782320866078_1.jpg"
-      }
-    ]
-  },
-  {
     "id": "1782319726580",
     "type": "img2img",
     "timestamp": "2026/6/25 00:48:40",
