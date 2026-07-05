@@ -1,5 +1,14 @@
 [
   {
+    "id": "1783251289267",
+    "type": "txt2img",
+    "timestamp": "2026/7/5 19:34:47",
+    "prompt": "生成一个用大块积木拼成的M14玩具枪  ，是2岁+的大块积木",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1783251287408_0.jpg"
+    ]
+  },
+  {
     "id": "1783155161049",
     "type": "txt2img",
     "timestamp": "2026/7/4 16:52:37",
