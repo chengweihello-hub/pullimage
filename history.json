@@ -1,5 +1,20 @@
 [
   {
+    "id": "1783438284320",
+    "type": "img2img",
+    "timestamp": "2026/7/7 23:31:20",
+    "prompt": "参考图1 的图标风格和大小生成两个图标，一个是用户轨迹  ，一个是 基本信息",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1783438282865_0.jpg"
+    ],
+    "referenceUrls": [
+      {
+        "name": "huaban-4141951072.png",
+        "url": "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/ref_1783438280766_0.jpg"
+      }
+    ]
+  },
+  {
     "id": "1783251289267",
     "type": "txt2img",
     "timestamp": "2026/7/5 19:34:47",
