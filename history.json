@@ -1,5 +1,14 @@
 [
   {
+    "id": "1783870496409",
+    "type": "txt2img",
+    "timestamp": "2026/7/12 23:34:54",
+    "prompt": "一张图文并茂的彩图，内容是四首古诗 ，分别是王 维的鹿柴，李白的望 天 门 山，苏轼的饮 湖 上 初 晴 后 雨， 王 昌 龄的采莲曲。每个字都带拼音。",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1783870494264_0.jpg"
+    ]
+  },
+  {
     "id": "1783870223029",
     "type": "txt2img",
     "timestamp": "2026/7/12 23:30:20",
