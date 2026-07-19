@@ -1,5 +1,14 @@
 [
   {
+    "id": "1784448787043",
+    "type": "txt2img",
+    "timestamp": "2026/7/19 16:13:04",
+    "prompt": "一张图文并茂的彩图，内容是四首古诗 ，分别是杜甫的两首绝句（两个黄鹂xxx和迟日江山丽这两首），苏轼的惠崇春江晚景，曾几的三衢道中。每个字都带拼音。作者标上朝代",
+    "generatedUrls": [
+      "https://raw.githubusercontent.com/chengweihello-hub/pullimage/main/pic/gen_1784448784852_0.jpg"
+    ]
+  },
+  {
     "id": "1784344290239",
     "type": "txt2img",
     "timestamp": "2026/7/18 11:11:28",
